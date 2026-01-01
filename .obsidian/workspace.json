@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "61772a771fa7b7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78dfb9fee877d17f",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d909007197aacb66",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cef35ba51326496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4fb7009797dd14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "218c0761ad7f2815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "68120f4d48632857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7d8aadaa6875f7fd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "c40db20f6fec8d89",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bcfdeec2810eb841",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a87c78af9e1c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2a979d829f0f55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b87cc63d6c6860e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "87bcd58d1c3aeb68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "638b05acf653d431",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "quiet-outline"
+            }
+          },
+          {
+            "id": "0c5846cc4b29923e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "templater-obsidian:Templater": false,
+      "i18n:I18N": false,
+      "homepage:打开主页": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "68120f4d48632857",
+  "lastOpenFiles": [
+    "渤海小吏/开年献礼__心猿西游，慧根猴到膨胀猴的奇幻漂流.md",
+    "渤海小吏/安史之乱/深度__神龙政变后的无字之碑，贪玩老女孩的大梦一场.md",
+    "渤海小吏/深度：一个视频详细梳理西游宇宙最强意念植入！唐太宗地府还魂的盗梦空间！.md",
+    "Tags",
+    "AI 指令/ChatGPT文本分段.md",
+    "AI 指令/文本内容划重点.md",
+    "小岛浪吹/【小岛浪吹】最像海外华人的族群——犹太人，为什么犹太人这么容易被针对，又这么的强大？.md",
+    "渤海小吏/安史之乱/深度__女皇登天，酷吏脏手套_戴_与_扔_的使用说明书.md",
+    "AI 指令/自然段形式的纯文本.md",
+    "渤海小吏/为啥你爷爷奶奶可以生七八个，你却不行？.md",
+    "渤海小吏/安史之乱/【英烈祭】张巡殉国！诗在！书在！青史在！华夏就在！.md",
+    "渤海小吏/【硬核】官宦世家的不传之秘，为什么圣人的书拿来办事百无一用？.md",
+    "渤海小吏/安史之乱/深度___出将入相_的崩塌，大唐为什么那么多夷人节度使？.md",
+    "渤海小吏/安史之乱/深度__双魔登场，拐点中国历史的霹雳飞猪，拐点中国历史的Bug级奸相.md",
+    "渤海小吏/深度__武则天为何不敢用节度使？李三郎怎样掉进了极乐幻境？.md",
+    "渤海小吏/安史之乱/绿帽界的光，武则天抬升自己后世之名的最精明遗产.md",
+    "渤海小吏/安史之乱/血战香积寺！西北军区VS东北军区！盛唐武德的终极汇报演出！.md",
+    "渤海小吏/安史之乱/深度__小狮王的怒吼！_武媚娘_变_武战友_的时代机遇.md",
+    "本子在隔壁/你值得拥有纯粹的「真爱」吗？硬核社会学，带你了解当代价值观如何异化爱情.md",
+    "小岛浪吹/【小岛浪吹】 (内含国民党通共证据) 国民党的党生巅峰，对共产党的唯一胜利.md",
+    "渤海小吏/深度：刁民害朕！祭赛国的舍利隐喻，荆棘岭的小人结局.md",
+    "渤海小吏/深度：高老庄婚变罗生门之谜？沙僧吃掉的九个取经人隐喻何意？.md",
+    "渤海小吏/安史之乱",
+    "AI 指令/整理笔记.md",
+    "AI 指令/整理成适配Obsidian的Markdown源码.md",
+    "AI 指令/解释一个陌生的专业概念.md",
+    "AI 指令/根据课件出题.md",
+    "哔哩名人演讲录",
+    "博尔米奥的雪景，伦巴第大区，意大利.jpg",
+    "卡酱目标全白金",
+    "三好的读书时刻",
+    "十厂长啊",
+    "安森垚",
+    "毒舌的南瓜",
+    "麦片是只小金毛",
+    "AI 指令",
+    "相册/人物图鉴/佐保里.jpg",
+    "相册/人物图鉴/椰椰头.jpg",
+    "相册/人物图鉴/柴小桑的背影.jpg",
+    "相册/人物图鉴/柴小桑证件照.jpg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-cfZF40Le3G.jpeg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-bxBFH5bvg2.jpeg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-itesoyUqHe.jpeg",
+    "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利.jpg",
+    "外刊资讯/图像/August_27_2025.jpg",
+    "未命名.canvas",
+    "the Attic/示例看板.canvas",
+    "the Attic/同步方式.canvas",
+    "obsidian-tasks-main/obsidian-tasks-main/resources/sample_vaults/Tasks-Demo/Manual Testing/Frontmatter/Frontmatter code.canvas",
+    "the Attic/示例白板.canvas"
+  ]
+}
