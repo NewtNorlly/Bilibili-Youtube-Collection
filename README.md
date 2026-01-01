@@ -49,6 +49,7 @@ Bilibili-Youtube-Collection/
 ├── 爱历史的老丁/    # 对应UP主的内容收藏
 ├── 麦片是只小金毛/  # 对应UP主的内容收藏
 └── README.md
+```
 
 
 ## 📝 收藏整理指南
