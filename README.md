@@ -9,8 +9,6 @@
 
 ## 📋 收藏夹简介
 
-![B站/Youtube图标](https://p26-passport.byteacctimg.com/img/user-avatar/2d3a3a3a6a3a3a3a3a3a3a3a3a3a3a3a~300x300.image)
-
 <div style="background-color: #fafcff; padding: 15px; border-radius: 8px; border-left: 4px solid #fb7299;">
 
 本仓库系个人整理的 **B站（哔哩哔哩）+ YouTube内容收藏集合**，集中分类存放不同UP主、频道及主题的视频收藏、观看笔记与关联推荐。
