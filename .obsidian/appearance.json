@@ -3,12 +3,12 @@
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "baseFontSize": 22,
-  "textFontFamily": "思源宋体",
+  "textFontFamily": "思源宋体 CN",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "homepage-banner",
     "card-layout"
   ],
-  "interfaceFontFamily": "思源宋体",
-  "monospaceFontFamily": "思源宋体"
+  "interfaceFontFamily": "思源宋体 CN",
+  "monospaceFontFamily": "思源宋体 CN"
 }
